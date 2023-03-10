@@ -1,0 +1,50 @@
+[
+    {
+       "id": 1,
+       "username": "Lakshay",
+       "lastname": "Sharma",
+       "active": true
+    },
+    {
+        "id": 2,
+        "username": "Virender",
+        "lastname": "Singh",
+        "active": true
+     },
+     {
+        "id": 3,
+        "username": "Giavani",
+        "lastname": "Frediani",
+        "active": true
+     },
+     {
+        "id": 4,
+        "username": "Noell",
+        "lastname": "Bea",
+        "active": true
+     },
+     {
+        "id": 5,
+        "username": "Willard",
+        "lastname": "Valek",
+        "active": true
+     },
+     {
+        "id": 6,
+        "username": "Kaylla",
+        "lastname": "Dinial",
+        "active": true
+     },
+     {
+        "id": 7,
+        "username": "Jeanette",
+        "lastname": "Penddreth",
+        "active": true
+     },
+     {
+        "id": 8,
+        "username": "Lakshay",
+        "lastname": "Sharma",
+        "active": true
+     }
+]
